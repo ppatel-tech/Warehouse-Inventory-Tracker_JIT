@@ -1,5 +1,5 @@
 package models;
-
+//prodect class
 public class Product {
     private String productId;
     private String name;
