@@ -49,7 +49,7 @@ public class Main {
         warehouse.addProduct("P001", "Tablet", 10, 3); 
         warehouse.displayAllProducts();
         
-        System.out.println("Demo Completed Successfully!");
+        System.out.println("successfully! completed");
         System.out.println("Total Products in Warehouse: " + warehouse.getTotalProducts());
     }
 }
