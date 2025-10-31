@@ -1,4 +1,3 @@
-// src/Main.java
 import models.Product;
 import services.Warehouse;
 
